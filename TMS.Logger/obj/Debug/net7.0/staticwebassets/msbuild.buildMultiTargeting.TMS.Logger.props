@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TMS.Logger.props" />
+</Project>

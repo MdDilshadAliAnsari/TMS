@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Published\TMS.DATA</_PublishTargetUrl>
+    <History>True|2025-05-29T10:21:45.6093549Z;True|2025-05-29T14:57:41.7161355+05:30;True|2025-05-29T14:46:48.2399191+05:30;True|2025-05-29T14:25:49.6900591+05:30;True|2025-05-29T14:23:10.4734861+05:30;True|2025-05-29T14:19:18.1686906+05:30;True|2025-05-29T14:18:14.7786907+05:30;True|2025-05-29T14:14:23.9973647+05:30;True|2025-05-29T14:08:40.6350537+05:30;True|2025-05-29T13:52:16.6792042+05:30;True|2025-05-29T13:46:00.9845565+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menus>
+	<Menu Url="/HQ"			Text="HQ"				Value="HQ" />
+	<Menu Url="/Teamfeeds"		Text="Teamfeeds"		Value="Team feeds" />
+	<!--<Menu Url="/Ticket"		Text="view"			Value="view" />-->
+	<Menu Url="/Agentqueue"		Text="Agent Queue"		Value="Agent Queue" />
+	<Menu Url="/Teamqueue"		Text="Team Queue"		Value="Team Queue" />
+	<Menu Url="/dashboard"		Text="Dashboard"		Value="Dashboard" />
+	
+	<Menu Url="javascript:;" Text="User Management" Value="User Management">
+		<SubMenu		Url ="/Customer"		Text="Customer"			Value="Customer"></SubMenu>
+		<SubMenu		Url ="/Developer"		Text="Developer"		Value="Developer"></SubMenu>
+		<SubMenu		Url ="/user"	Text="User"				Value="User"></SubMenu> 
+		<SubMenu		Url ="/Role"			Text="Role"				Value="Role"></SubMenu> 
+	</Menu>
+
+	<Menu Url="javascript:;" Text="Master Management" Value="Master Management">
+		<SubMenu		Url ="/MasterPriority"			Text="MasterPriority"			Value="MasterPriority"></SubMenu>
+		<SubMenu		Url ="/Taskstatus"				Text="Taskstatus"				Value="Taskstatus"></SubMenu>
+		<SubMenu		Url ="/Taskcategory"			Text="Taskcategory"				Value="Taskcategory"></SubMenu>
+		<SubMenu		Url ="/Project"					Text="Project"					Value="Project"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Project"				Value="Projectt Management">
+		<SubMenu		Url ="/Allticket"				Text="Allticket"				Value="Allticket"></SubMenu>
+		<SubMenu		Url ="/AssignTicket"			Text="AssignTicket"				Value="AssignTicket"></SubMenu>
+		<SubMenu		Url ="/CommentTicket"			Text="CommentTicket"			Value="CommentTicket"></SubMenu>
+	</Menu>
+	<Menu Url="javascript:;" Text="Analytics"				Value="Analytics">
+		<SubMenu		Url ="/CustomAnalytics"				Text="CustomAnalytics"					Value="CustomAnalytics"></SubMenu>
+		<SubMenu		Url ="/WeeklyAnalytics"				Text="WeeklyAnalytics"					Value="WeeklyAnalytics"></SubMenu>
+		<SubMenu		Url ="/MonthlyAnalytics"			Text="MonthlyAnalytics"				        Value="MonthlyAnalytics"></SubMenu>
+		<SubMenu		Url ="/YearlyAnalytics"				Text="YearlyAnalytics"					Value="YearlyAnalytics"></SubMenu>
+	</Menu>
+	
+</Menus>

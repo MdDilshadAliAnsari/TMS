@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d9vHw5gMm08ox0Dlc8RQH7ZmC/7D6U3a/QYoXu7szr4=",
+  "Source": "TMS.Authentication",
+  "BasePath": "_content/TMS.Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

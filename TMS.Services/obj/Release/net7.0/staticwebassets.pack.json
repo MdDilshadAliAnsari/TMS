@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\BulkTask\\1f03e482-e8ae-4d34-91ba-0ea23a358071.xlsx",
+      "PackagePath": "staticwebassets\\BulkTask\\1f03e482-e8ae-4d34-91ba-0ea23a358071.xlsx"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\BulkTask\\582e6306-c18f-4b97-9d56-479c3449e83a.xlsx",
+      "PackagePath": "staticwebassets\\BulkTask\\582e6306-c18f-4b97-9d56-479c3449e83a.xlsx"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\BulkTask\\58efe844-a158-4910-b272-f3d597b14fe2.xlsx",
+      "PackagePath": "staticwebassets\\BulkTask\\58efe844-a158-4910-b272-f3d597b14fe2.xlsx"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\BulkTask\\797084db-ee4c-44b7-81a7-4a88ecaf7ed7.xlsx",
+      "PackagePath": "staticwebassets\\BulkTask\\797084db-ee4c-44b7-81a7-4a88ecaf7ed7.xlsx"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\BulkTask\\d92c7730-2e17-451c-8cc0-673e1b627244.xlsx",
+      "PackagePath": "staticwebassets\\BulkTask\\d92c7730-2e17-451c-8cc0-673e1b627244.xlsx"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\uploads\\5e1230d6-1851-4a77-b67d-eb7426eb0001.csv",
+      "PackagePath": "staticwebassets\\uploads\\5e1230d6-1851-4a77-b67d-eb7426eb0001.csv"
+    },
+    {
+      "Id": "D:\\TMS\\TMS.Services\\wwwroot\\uploads\\ab38fbe1-c514-4d87-aaf9-bf4b56fa6d8d.csv",
+      "PackagePath": "staticwebassets\\uploads\\ab38fbe1-c514-4d87-aaf9-bf4b56fa6d8d.csv"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.TMS.Services.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.TMS.Services.props",
+      "PackagePath": "build\\TMS.Services.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TMS.Services.props",
+      "PackagePath": "buildMultiTargeting\\TMS.Services.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.TMS.Services.props",
+      "PackagePath": "buildTransitive\\TMS.Services.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+D:\TMS\TMS.Domain\bin\Debug\net7.0\TMS.Domain.deps.json
+D:\TMS\TMS.Domain\bin\Debug\net7.0\TMS.Domain.dll
+D:\TMS\TMS.Domain\bin\Debug\net7.0\TMS.Domain.pdb
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.AssemblyInfoInputs.cache
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.AssemblyInfo.cs
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.csproj.CoreCompileInputs.cache
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.dll
+D:\TMS\TMS.Domain\obj\Debug\net7.0\refint\TMS.Domain.dll
+D:\TMS\TMS.Domain\obj\Debug\net7.0\TMS.Domain.pdb
+D:\TMS\TMS.Domain\obj\Debug\net7.0\ref\TMS.Domain.dll

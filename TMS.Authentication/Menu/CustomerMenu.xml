@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Menus>
+	 <!--<Menu Url="/HQ"				Text="HQ"				Value="HQ" />  -->
+	<Menu Url="/Teamfeeds"		Text="Teamfeeds"		Value="Team feeds" />
+	<Menu Url="/Ticket"		Text="view"				Value="view" />
+	<Menu Url="/Agentqueue"		Text="Agent Queue"		Value="Agent Queue" />
+	<Menu Url="/Teamqueue"		Text="Team Queue"		Value="Team Queue" />
+
+	<Menu Url="javascript:;" Text="Project"				Value="Projectt Management">
+		<SubMenu		Url ="/Allticket"				Text="Allticket"				Value="Allticket"></SubMenu>
+		<!--
+		<SubMenu		Url ="/AssignTicket"			Text="AssignTicket"				Value="AssignTicket"></SubMenu>
+		<SubMenu		Url ="/CommentTicket"			Text="CommentTicket"			Value="CommentTicket"></SubMenu>
+			-->
+	</Menu>
+	<!--
+	<Menu Url="javascript:;" Text="Analytics"				Value="Analytics">
+		<SubMenu		Url ="/CutomAnalytics"				Text="CutomAnalytics"					Value="CutomAnalytics"></SubMenu>
+		<SubMenu		Url ="/WeeklyAnalytics"				Text="WeeklyAnalytics"					Value="WeeklyAnalytics"></SubMenu>
+		<SubMenu		Url ="/MonthlylyAnalytics"			Text="MonthlylyAnalytics"				Value="MonthlylyAnalytics"></SubMenu>
+		<SubMenu		Url ="/YearlyAnalytics"				Text="YearlyAnalytics"					Value="YearlyAnalytics"></SubMenu>
+	</Menu>
+	-->
+</Menus>
